@@ -31,7 +31,6 @@
     padding: 15% 0;
 }
 
-/* UTILIZA PSEUDO CLASSES PARA EFEITOS - HOVER */
 .cabecalho a:hover{
     color: #000000;
     background-color: #fff;
