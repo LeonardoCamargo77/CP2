@@ -1,6 +1,7 @@
-@import url("cabecalho.css");
-@import url("conteudo.css");
-@import url("rodape.css");
+@import url("cabecalho_index.css");
+@import url("conteudo_index.css");
+@import url("rodape_index.css");
+@import url("break-point_index.css");
 
 *{
     margin: 0;
